@@ -9,7 +9,7 @@ The website includes the following elements: Navigation panel for quicker access
 
 ### Website Link
 
-https://divohub.github.io/personal-blog/
+https://divohub.github.io/personal-blog-revamp/
 
 ### Tech Stack
 
